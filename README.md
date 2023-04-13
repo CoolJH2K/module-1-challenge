@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Horiseon Homepage
 ## Description
 For my first homework assignment, I was instructed to take some code for an existing website and fix it so that the website would meet accessibility standards and the CSS code wouldn't be so cluttered and repetitive.
 ### Why did I do this project?
