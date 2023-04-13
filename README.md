@@ -9,6 +9,8 @@ I did this for two reasons.
 The website previously did not sufficiently meet accessibility standards, nor was it optimized for search engines, so I did research on accessibility standards for websites and did my best to apply them here. There was also the problem of the CSS being needlessly cluttered, so I made sure to put any elements that had the exact same CSS rules into one group to thin out the code a little.
 ### What did I learn?
 I learned about accessibility standards, such as making sure that the font size is big enough and the contrast between the background and the text is sufficient, and how to apply them to a webpage. I also learned that if a bunch of elements or classes have the exact same CSS rules, then I can group those elements and classes together for easier reading by separating them with commas so they will all still have the same CSS rules. Finally, I learned how to add comments so other web developers can see what the code is doing and/or how it's being stylized.
+## Screenshot
+![The finished application](./assets/images/application-screenshot.png)
 ## Installation
 N/A
 ## Usage
